@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E0A5BE5F218A2823004E5960 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A5BE5E218A2823004E5960 /* CreationViewController.swift */; };
 		E0B65C79217291380093E1F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B65C78217291380093E1F6 /* AppDelegate.swift */; };
 		E0B65C7B217291380093E1F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B65C7A217291380093E1F6 /* ViewController.swift */; };
 		E0B65C7E217291380093E1F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0B65C7C217291380093E1F6 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E0A5BE5E218A2823004E5960 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 		E0B65C75217291380093E1F6 /* Flashcard Helper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flashcard Helper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0B65C78217291380093E1F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0B65C7A217291380093E1F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		E0B65C6C217291380093E1F6 = {
 			isa = PBXGroup;
 			children = (
+				E0A5BE5E218A2823004E5960 /* CreationViewController.swift */,
 				E0B65C77217291380093E1F6 /* Flashcard Helper */,
 				E0B65C8C2172913D0093E1F6 /* Flashcard HelperTests */,
 				E0B65C972172913D0093E1F6 /* Flashcard HelperUITests */,
@@ -258,6 +261,7 @@
 			files = (
 				E0B65C7B217291380093E1F6 /* ViewController.swift in Sources */,
 				E0B65C79217291380093E1F6 /* AppDelegate.swift in Sources */,
+				E0A5BE5F218A2823004E5960 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
